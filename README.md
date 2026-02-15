@@ -122,4 +122,4 @@ anchor test
 - [Quadratic Voting Explained](https://en.wikipedia.org/wiki/Quadratic_voting)
 - [Anchor Framework Docs](https://www.anchor-lang.com/)
 - [Solana Cookbook](https://solanacookbook.com/)
-- [Turbin3 Program](https://turbin3.com/)
+- [Turbin3 Program](https://www.turbin3.org/)
